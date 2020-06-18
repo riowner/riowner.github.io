@@ -11,7 +11,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: $text-color;
+  // color: $text-color;
+  color: #524c56;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -131,11 +132,13 @@ a {
   }
 
   &:visited {
-    color: $link-color-visited;
+    // color: $link-color-visited;
+    color: #9A81A3;
   }
 
   &:hover {
-    color: $link-color-hover;
+    // color: $link-color-hover;
+    color: #7C5F86;
     outline: 0;
   }
 }

@@ -23,14 +23,16 @@ gallery2:
 ---
 
 ✓ ✓ ☑ ❤ ⁂ ☽ ☹ ☺ ☻ ✈ ✉  
-→ ← ↑ ↓ ↔ ↗ ↙ ↖ ↘  
+→ ← ↑ ↓ ↔ ↗ ↙ ↖ ↘  ↗
 ✁ ✂ ✄ ✎ ✏ ✐  
 ✓ ✔ ✕ ✖ ✗ ✘
+⚑ ⚐ 
+⬆➡⬇⬅
 
 <strike>strikeout text</strike>
 
 이미지는 절대경로  
-![Alt text](/assets/images/main.jpeg)
+![Alt text](/assets/images/profile.png)
 
 <address>
   1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
